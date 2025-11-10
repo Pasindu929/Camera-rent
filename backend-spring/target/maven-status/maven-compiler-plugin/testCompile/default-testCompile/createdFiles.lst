@@ -1,0 +1,7 @@
+com\example\camerarent\selenium\UserLoginTest.class
+com\example\camerarent\bdd\CucumberTestRunner.class
+com\example\camerarent\bdd\CucumberSpringConfiguration.class
+com\example\camerarent\service\UserServiceTest.class
+com\example\camerarent\bdd\UserSignupSteps.class
+com\example\camerarent\selenium\UserSignupTest.class
+com\example\camerarent\MongoConnectionTest.class
